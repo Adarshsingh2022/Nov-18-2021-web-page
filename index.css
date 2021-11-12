@@ -1,0 +1,112 @@
+body{
+    background:url(https://media.istockphoto.com/photos/professional-vlogger-sitting-in-front-of-a-camera-picture-id1211311209?k=20&m=1211311209&s=612x612&w=0&h=ctnE7IJDctwL_W9OlaozDbwq1jPRWnj0x3ukoKelgvk=);
+}
+#head{
+   
+    border: 2px solid rgb(37, 15, 15);
+    background: rgb(216, 200, 199);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;  
+    
+}
+
+#techy{
+    color: rgb(80, 76, 76); 
+    text-decoration: none;
+}
+#home{
+    color: rgb(150, 255, 80);
+}
+
+#aboutus {
+    color: rgb(255, 115, 80);
+}
+#home:hover{
+    color:darkred;
+}
+
+.menu{
+    display: inline-block;
+    text-decoration: none;
+}
+
+#nav{
+    border: 2px solid black;
+    margin-top: 10px;
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: grey;
+}
+
+#sec{
+    display: inline-block
+}
+
+#section{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url(https://as2.ftcdn.net/v2/jpg/01/66/67/41/1000_F_166674164_Zu3lfMI8t25xmzFfB5NHKhOHJuuYpt1E.jpg);
+}
+
+#content{
+    color: rgb(14, 16, 19);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.con{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+#para{
+    color: white;
+}
+
+#container{
+    
+    margin-top: 10px;
+    border-radius: 10px;
+    float: right;
+
+    border: 2px solid rebeccapurple;
+    width: 700px;
+    height: 830px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-image: url(https://as1.ftcdn.net/v2/jpg/04/62/41/48/1000_F_462414859_5hDKJGIik4NGYFJmkCEs1ttWEuizwZut.jpg);
+}
+
+#article{
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(202, 205, 50);
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 585px;
+    height: 400px;
+    background-image: url(https://image.freepik.com/free-photo/pile-3d-play-button-logos_1379-880.jpg);
+}
+
+#footer{
+    /* background-color: rgb(245, 142, 223); */
+    background-image: url(https://image.freepik.com/free-vector/stylish-glowing-digital-red-lines-banner_1017-23964.jpg);
+    color: rgb(230, 240, 227);
+    margin-top: 10px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    border-radius: 5px;
+  
+    
+}
+#foot{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
